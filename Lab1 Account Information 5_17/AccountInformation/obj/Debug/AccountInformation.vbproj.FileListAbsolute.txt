@@ -1,9 +1,0 @@
-F:\COSC 131\vb\ch05\TemplateApp\Exercises\AccountInformation\AccountInformation\bin\Debug\AccountInformation.exe
-F:\COSC 131\vb\ch05\TemplateApp\Exercises\AccountInformation\AccountInformation\bin\Debug\AccountInformation.pdb
-F:\COSC 131\vb\ch05\TemplateApp\Exercises\AccountInformation\AccountInformation\bin\Debug\AccountInformation.xml
-F:\COSC 131\vb\ch05\TemplateApp\Exercises\AccountInformation\AccountInformation\obj\Debug\AccountInformation.AccountInformationForm.resources
-F:\COSC 131\vb\ch05\TemplateApp\Exercises\AccountInformation\AccountInformation\obj\Debug\AccountInformation.Resources.resources
-F:\COSC 131\vb\ch05\TemplateApp\Exercises\AccountInformation\AccountInformation\obj\Debug\AccountInformation.vbproj.GenerateResource.Cache
-F:\COSC 131\vb\ch05\TemplateApp\Exercises\AccountInformation\AccountInformation\obj\Debug\AccountInformation.exe
-F:\COSC 131\vb\ch05\TemplateApp\Exercises\AccountInformation\AccountInformation\obj\Debug\AccountInformation.xml
-F:\COSC 131\vb\ch05\TemplateApp\Exercises\AccountInformation\AccountInformation\obj\Debug\AccountInformation.pdb
