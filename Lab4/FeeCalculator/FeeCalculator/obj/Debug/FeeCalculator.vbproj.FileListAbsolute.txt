@@ -1,0 +1,35 @@
+C:\Users\DemoMachine\AppData\Local\Temporary Projects\FeeCalculator\bin\Debug\FeeCalculator.exe
+C:\Users\DemoMachine\AppData\Local\Temporary Projects\FeeCalculator\bin\Debug\FeeCalculator.pdb
+C:\Users\DemoMachine\AppData\Local\Temporary Projects\FeeCalculator\bin\Debug\FeeCalculator.xml
+C:\Users\DemoMachine\AppData\Local\Temporary Projects\FeeCalculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DemoMachine\AppData\Local\Temporary Projects\FeeCalculator\obj\Debug\FeeCalculator.FeeCalculatorForm.resources
+C:\Users\DemoMachine\AppData\Local\Temporary Projects\FeeCalculator\obj\Debug\FeeCalculator.Resources.resources
+C:\Users\DemoMachine\AppData\Local\Temporary Projects\FeeCalculator\obj\Debug\FeeCalculator.vbproj.GenerateResource.Cache
+C:\Users\DemoMachine\AppData\Local\Temporary Projects\FeeCalculator\obj\Debug\FeeCalculator.exe
+C:\Users\DemoMachine\AppData\Local\Temporary Projects\FeeCalculator\obj\Debug\FeeCalculator.xml
+C:\Users\DemoMachine\AppData\Local\Temporary Projects\FeeCalculator\obj\Debug\FeeCalculator.pdb
+C:\Solutions\Tutorial14Solutions\FeeCalculator\FeeCalculator\obj\Debug\FeeCalculator.exe
+C:\Solutions\Tutorial14Solutions\FeeCalculator\FeeCalculator\obj\Debug\FeeCalculator.xml
+C:\Solutions\Tutorial14Solutions\FeeCalculator\FeeCalculator\obj\Debug\FeeCalculator.pdb
+C:\Solutions\Tutorial14Solutions\FeeCalculator\FeeCalculator\bin\Debug\FeeCalculator.exe
+C:\Solutions\Tutorial14Solutions\FeeCalculator\FeeCalculator\bin\Debug\FeeCalculator.pdb
+C:\Solutions\Tutorial14Solutions\FeeCalculator\FeeCalculator\bin\Debug\FeeCalculator.xml
+C:\Solutions\Tutorial14Solutions\FeeCalculator\FeeCalculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Solutions\Tutorial14Solutions\FeeCalculator\FeeCalculator\obj\Debug\FeeCalculator.FeeCalculatorForm.resources
+C:\Solutions\Tutorial14Solutions\FeeCalculator\FeeCalculator\obj\Debug\FeeCalculator.Resources.resources
+C:\Solutions\Tutorial14Solutions\FeeCalculator\FeeCalculator\obj\Debug\FeeCalculator.vbproj.GenerateResource.Cache
+C:\Examples\Tutorial14\Exercises\FeeCalculator\FeeCalculator\obj\Debug\FeeCalculator.exe
+C:\Examples\Tutorial14\Exercises\FeeCalculator\FeeCalculator\obj\Debug\FeeCalculator.xml
+C:\Examples\Tutorial14\Exercises\FeeCalculator\FeeCalculator\obj\Debug\FeeCalculator.pdb
+C:\books\2012\SimplyVB2010\Examples\ch14\Exercises\FeeCalculator\FeeCalculator\obj\Debug\FeeCalculator.exe
+C:\books\2012\SimplyVB2010\Examples\ch14\Exercises\FeeCalculator\FeeCalculator\obj\Debug\FeeCalculator.xml
+C:\books\2012\SimplyVB2010\Examples\ch14\Exercises\FeeCalculator\FeeCalculator\obj\Debug\FeeCalculator.pdb
+G:\College Courses\COSC 131\Lab4\FeeCalculator\FeeCalculator\obj\Debug\FeeCalculator.exe
+G:\College Courses\COSC 131\Lab4\FeeCalculator\FeeCalculator\obj\Debug\FeeCalculator.xml
+G:\College Courses\COSC 131\Lab4\FeeCalculator\FeeCalculator\obj\Debug\FeeCalculator.pdb
+G:\College Courses\COSC 131\Lab4\FeeCalculator\FeeCalculator\bin\Debug\FeeCalculator.exe
+G:\College Courses\COSC 131\Lab4\FeeCalculator\FeeCalculator\bin\Debug\FeeCalculator.pdb
+G:\College Courses\COSC 131\Lab4\FeeCalculator\FeeCalculator\bin\Debug\FeeCalculator.xml
+G:\College Courses\COSC 131\Lab4\FeeCalculator\FeeCalculator\obj\Debug\FeeCalculator.FeeCalculatorForm.resources
+G:\College Courses\COSC 131\Lab4\FeeCalculator\FeeCalculator\obj\Debug\FeeCalculator.Resources.resources
+G:\College Courses\COSC 131\Lab4\FeeCalculator\FeeCalculator\obj\Debug\FeeCalculator.vbproj.GenerateResource.Cache

@@ -1,0 +1,12 @@
+F:\COSC 131\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+F:\COSC 131\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+F:\COSC 131\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.xml
+F:\COSC 131\PrimeNumbers\PrimeNumbers\obj\x86\Debug\PrimeNumbers.Form1.resources
+F:\COSC 131\PrimeNumbers\PrimeNumbers\obj\x86\Debug\PrimeNumbers.Resources.resources
+F:\COSC 131\PrimeNumbers\PrimeNumbers\obj\x86\Debug\PrimeNumbers.vbproj.GenerateResource.Cache
+F:\COSC 131\PrimeNumbers\PrimeNumbers\obj\x86\Debug\PrimeNumbers.exe
+F:\COSC 131\PrimeNumbers\PrimeNumbers\obj\x86\Debug\PrimeNumbers.xml
+F:\COSC 131\PrimeNumbers\PrimeNumbers\obj\x86\Debug\PrimeNumbers.pdb
+G:\COSC 131\PrimeNumbers\PrimeNumbers\obj\x86\Debug\PrimeNumbers.exe
+G:\COSC 131\PrimeNumbers\PrimeNumbers\obj\x86\Debug\PrimeNumbers.xml
+G:\COSC 131\PrimeNumbers\PrimeNumbers\obj\x86\Debug\PrimeNumbers.pdb

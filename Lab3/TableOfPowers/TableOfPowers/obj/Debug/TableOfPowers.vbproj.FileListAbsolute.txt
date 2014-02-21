@@ -1,0 +1,20 @@
+C:\books\2012\SimplyVB2010\Examples\ch09\Exercises\TableOfPowers\TableOfPowers\bin\Debug\TableOfPowers.exe
+C:\books\2012\SimplyVB2010\Examples\ch09\Exercises\TableOfPowers\TableOfPowers\bin\Debug\TableOfPowers.pdb
+C:\books\2012\SimplyVB2010\Examples\ch09\Exercises\TableOfPowers\TableOfPowers\bin\Debug\TableOfPowers.xml
+C:\books\2012\SimplyVB2010\Examples\ch09\Exercises\TableOfPowers\TableOfPowers\obj\Debug\ResolveAssemblyReference.cache
+C:\books\2012\SimplyVB2010\Examples\ch09\Exercises\TableOfPowers\TableOfPowers\obj\Debug\TableOfPowers.Resources.resources
+C:\books\2012\SimplyVB2010\Examples\ch09\Exercises\TableOfPowers\TableOfPowers\obj\Debug\TableOfPowers.TableOfPowersForm.resources
+C:\books\2012\SimplyVB2010\Examples\ch09\Exercises\TableOfPowers\TableOfPowers\obj\Debug\GenerateResource.read.1.tlog
+C:\books\2012\SimplyVB2010\Examples\ch09\Exercises\TableOfPowers\TableOfPowers\obj\Debug\GenerateResource.write.1.tlog
+C:\books\2012\SimplyVB2010\Examples\ch09\Exercises\TableOfPowers\TableOfPowers\obj\Debug\TableOfPowers.exe
+C:\books\2012\SimplyVB2010\Examples\ch09\Exercises\TableOfPowers\TableOfPowers\obj\Debug\TableOfPowers.xml
+C:\books\2012\SimplyVB2010\Examples\ch09\Exercises\TableOfPowers\TableOfPowers\obj\Debug\TableOfPowers.pdb
+F:\College Courses\COSC 131\Lab3\TableOfPowers\TableOfPowers\obj\Debug\TableOfPowers.exe
+F:\College Courses\COSC 131\Lab3\TableOfPowers\TableOfPowers\obj\Debug\TableOfPowers.xml
+F:\College Courses\COSC 131\Lab3\TableOfPowers\TableOfPowers\obj\Debug\TableOfPowers.pdb
+F:\College Courses\COSC 131\Lab3\TableOfPowers\TableOfPowers\bin\Debug\TableOfPowers.exe
+F:\College Courses\COSC 131\Lab3\TableOfPowers\TableOfPowers\bin\Debug\TableOfPowers.pdb
+F:\College Courses\COSC 131\Lab3\TableOfPowers\TableOfPowers\bin\Debug\TableOfPowers.xml
+F:\College Courses\COSC 131\Lab3\TableOfPowers\TableOfPowers\obj\Debug\TableOfPowers.Resources.resources
+F:\College Courses\COSC 131\Lab3\TableOfPowers\TableOfPowers\obj\Debug\TableOfPowers.TableOfPowersForm.resources
+F:\College Courses\COSC 131\Lab3\TableOfPowers\TableOfPowers\obj\Debug\TableOfPowers.vbproj.GenerateResource.Cache

@@ -1,0 +1,18 @@
+F:\COSC 131\RestaurantBill\RestaurantBill\bin\Debug\RestaurantBill.exe
+F:\COSC 131\RestaurantBill\RestaurantBill\bin\Debug\RestaurantBill.pdb
+F:\COSC 131\RestaurantBill\RestaurantBill\bin\Debug\RestaurantBill.xml
+F:\COSC 131\RestaurantBill\RestaurantBill\obj\x86\Debug\RestaurantBill.Form1.resources
+F:\COSC 131\RestaurantBill\RestaurantBill\obj\x86\Debug\RestaurantBill.Resources.resources
+F:\COSC 131\RestaurantBill\RestaurantBill\obj\x86\Debug\RestaurantBill.vbproj.GenerateResource.Cache
+F:\COSC 131\RestaurantBill\RestaurantBill\obj\x86\Debug\RestaurantBill.exe
+F:\COSC 131\RestaurantBill\RestaurantBill\obj\x86\Debug\RestaurantBill.xml
+F:\COSC 131\RestaurantBill\RestaurantBill\obj\x86\Debug\RestaurantBill.pdb
+F:\College Courses\COSC 131\Lab3\RestaurantBill\RestaurantBill\obj\x86\Debug\RestaurantBill.exe
+F:\College Courses\COSC 131\Lab3\RestaurantBill\RestaurantBill\obj\x86\Debug\RestaurantBill.xml
+F:\College Courses\COSC 131\Lab3\RestaurantBill\RestaurantBill\obj\x86\Debug\RestaurantBill.pdb
+F:\College Courses\COSC 131\Lab3\RestaurantBill\RestaurantBill\bin\Debug\RestaurantBill.exe
+F:\College Courses\COSC 131\Lab3\RestaurantBill\RestaurantBill\bin\Debug\RestaurantBill.pdb
+F:\College Courses\COSC 131\Lab3\RestaurantBill\RestaurantBill\bin\Debug\RestaurantBill.xml
+F:\College Courses\COSC 131\Lab3\RestaurantBill\RestaurantBill\obj\x86\Debug\RestaurantBill.Form1.resources
+F:\College Courses\COSC 131\Lab3\RestaurantBill\RestaurantBill\obj\x86\Debug\RestaurantBill.Resources.resources
+F:\College Courses\COSC 131\Lab3\RestaurantBill\RestaurantBill\obj\x86\Debug\RestaurantBill.vbproj.GenerateResource.Cache

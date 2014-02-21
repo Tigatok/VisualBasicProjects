@@ -1,0 +1,27 @@
+F:\College Courses\COSC 131\text examples\ch12\Exercises\IncomeTaxCalculator\IncomeTaxCalculator\bin\Debug\IncomeTaxCalculator.exe
+F:\College Courses\COSC 131\text examples\ch12\Exercises\IncomeTaxCalculator\IncomeTaxCalculator\bin\Debug\IncomeTaxCalculator.pdb
+F:\College Courses\COSC 131\text examples\ch12\Exercises\IncomeTaxCalculator\IncomeTaxCalculator\bin\Debug\IncomeTaxCalculator.xml
+F:\College Courses\COSC 131\text examples\ch12\Exercises\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.Resources.resources
+F:\College Courses\COSC 131\text examples\ch12\Exercises\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.vbproj.GenerateResource.Cache
+F:\College Courses\COSC 131\text examples\ch12\Exercises\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.exe
+F:\College Courses\COSC 131\text examples\ch12\Exercises\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.xml
+F:\College Courses\COSC 131\text examples\ch12\Exercises\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.pdb
+F:\College Courses\COSC 131\text examples\ch12\Exercises\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.IncomeTax.resources
+G:\College Courses\COSC 131\text examples\ch12\Exercises\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.exe
+G:\College Courses\COSC 131\text examples\ch12\Exercises\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.xml
+G:\College Courses\COSC 131\text examples\ch12\Exercises\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.pdb
+G:\College Courses\COSC 131\text examples\ch12\Exercises\IncomeTaxCalculator\IncomeTaxCalculator\bin\Debug\IncomeTaxCalculator.exe
+G:\College Courses\COSC 131\text examples\ch12\Exercises\IncomeTaxCalculator\IncomeTaxCalculator\bin\Debug\IncomeTaxCalculator.pdb
+G:\College Courses\COSC 131\text examples\ch12\Exercises\IncomeTaxCalculator\IncomeTaxCalculator\bin\Debug\IncomeTaxCalculator.xml
+G:\College Courses\COSC 131\text examples\ch12\Exercises\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.IncomeTax.resources
+G:\College Courses\COSC 131\text examples\ch12\Exercises\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.Resources.resources
+G:\College Courses\COSC 131\text examples\ch12\Exercises\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.vbproj.GenerateResource.Cache
+G:\College Courses\COSC 131\Lab4\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.exe
+G:\College Courses\COSC 131\Lab4\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.xml
+G:\College Courses\COSC 131\Lab4\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.pdb
+G:\College Courses\COSC 131\Lab4\IncomeTaxCalculator\IncomeTaxCalculator\bin\Debug\IncomeTaxCalculator.exe
+G:\College Courses\COSC 131\Lab4\IncomeTaxCalculator\IncomeTaxCalculator\bin\Debug\IncomeTaxCalculator.pdb
+G:\College Courses\COSC 131\Lab4\IncomeTaxCalculator\IncomeTaxCalculator\bin\Debug\IncomeTaxCalculator.xml
+G:\College Courses\COSC 131\Lab4\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.IncomeTax.resources
+G:\College Courses\COSC 131\Lab4\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.Resources.resources
+G:\College Courses\COSC 131\Lab4\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.vbproj.GenerateResource.Cache

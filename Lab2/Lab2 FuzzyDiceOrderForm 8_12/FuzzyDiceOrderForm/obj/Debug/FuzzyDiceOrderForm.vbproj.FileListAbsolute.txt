@@ -1,0 +1,21 @@
+C:\Users\Tyler\Desktop\FuzzyDiceOrderForm\FuzzyDiceOrderForm\bin\Debug\FuzzyDiceOrderForm.exe
+C:\Users\Tyler\Desktop\FuzzyDiceOrderForm\FuzzyDiceOrderForm\bin\Debug\FuzzyDiceOrderForm.pdb
+C:\Users\Tyler\Desktop\FuzzyDiceOrderForm\FuzzyDiceOrderForm\bin\Debug\FuzzyDiceOrderForm.xml
+C:\Users\Tyler\Desktop\FuzzyDiceOrderForm\FuzzyDiceOrderForm\obj\Debug\FuzzDiceOrderForm.FuzzyDiceOrderForm.resources
+C:\Users\Tyler\Desktop\FuzzyDiceOrderForm\FuzzyDiceOrderForm\obj\Debug\FuzzDiceOrderForm.Resources.resources
+C:\Users\Tyler\Desktop\FuzzyDiceOrderForm\FuzzyDiceOrderForm\obj\Debug\FuzzyDiceOrderForm.vbproj.GenerateResource.Cache
+C:\Users\Tyler\Desktop\FuzzyDiceOrderForm\FuzzyDiceOrderForm\obj\Debug\FuzzyDiceOrderForm.exe
+C:\Users\Tyler\Desktop\FuzzyDiceOrderForm\FuzzyDiceOrderForm\obj\Debug\FuzzyDiceOrderForm.xml
+C:\Users\Tyler\Desktop\FuzzyDiceOrderForm\FuzzyDiceOrderForm\obj\Debug\FuzzyDiceOrderForm.pdb
+F:\COSC 131\Lab2\FuzzyDiceOrderForm\FuzzyDiceOrderForm\obj\Debug\FuzzyDiceOrderForm.exe
+F:\COSC 131\Lab2\FuzzyDiceOrderForm\FuzzyDiceOrderForm\obj\Debug\FuzzyDiceOrderForm.xml
+F:\COSC 131\Lab2\FuzzyDiceOrderForm\FuzzyDiceOrderForm\obj\Debug\FuzzyDiceOrderForm.pdb
+F:\COSC 131\Lab2\FuzzyDiceOrderForm\FuzzyDiceOrderForm\bin\Debug\FuzzyDiceOrderForm.exe
+F:\COSC 131\Lab2\FuzzyDiceOrderForm\FuzzyDiceOrderForm\bin\Debug\FuzzyDiceOrderForm.pdb
+F:\COSC 131\Lab2\FuzzyDiceOrderForm\FuzzyDiceOrderForm\bin\Debug\FuzzyDiceOrderForm.xml
+F:\COSC 131\Lab2\FuzzyDiceOrderForm\FuzzyDiceOrderForm\obj\Debug\FuzzDiceOrderForm.FuzzyDiceOrderForm.resources
+F:\COSC 131\Lab2\FuzzyDiceOrderForm\FuzzyDiceOrderForm\obj\Debug\FuzzDiceOrderForm.Resources.resources
+F:\COSC 131\Lab2\FuzzyDiceOrderForm\FuzzyDiceOrderForm\obj\Debug\FuzzyDiceOrderForm.vbproj.GenerateResource.Cache
+F:\COSC 131\Lab2\Lab2 FuzzyDiceOrderForm 8_12\FuzzyDiceOrderForm\obj\Debug\FuzzyDiceOrderForm.exe
+F:\COSC 131\Lab2\Lab2 FuzzyDiceOrderForm 8_12\FuzzyDiceOrderForm\obj\Debug\FuzzyDiceOrderForm.xml
+F:\COSC 131\Lab2\Lab2 FuzzyDiceOrderForm 8_12\FuzzyDiceOrderForm\obj\Debug\FuzzyDiceOrderForm.pdb

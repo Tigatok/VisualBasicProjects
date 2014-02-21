@@ -1,0 +1,9 @@
+F:\COSC 131\Lab2\Lab2 Digit Extractor 6_17\Lab2 Digit Extractor 6_17\bin\Debug\Lab2 Digit Extractor 6_17.exe
+F:\COSC 131\Lab2\Lab2 Digit Extractor 6_17\Lab2 Digit Extractor 6_17\bin\Debug\Lab2 Digit Extractor 6_17.pdb
+F:\COSC 131\Lab2\Lab2 Digit Extractor 6_17\Lab2 Digit Extractor 6_17\bin\Debug\Lab2 Digit Extractor 6_17.xml
+F:\COSC 131\Lab2\Lab2 Digit Extractor 6_17\Lab2 Digit Extractor 6_17\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\COSC 131\Lab2\Lab2 Digit Extractor 6_17\Lab2 Digit Extractor 6_17\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\COSC 131\Lab2\Lab2 Digit Extractor 6_17\Lab2 Digit Extractor 6_17\obj\x86\Debug\Lab2 Digit Extractor 6_17.vbproj.GenerateResource.Cache
+F:\COSC 131\Lab2\Lab2 Digit Extractor 6_17\Lab2 Digit Extractor 6_17\obj\x86\Debug\Lab2 Digit Extractor 6_17.exe
+F:\COSC 131\Lab2\Lab2 Digit Extractor 6_17\Lab2 Digit Extractor 6_17\obj\x86\Debug\Lab2 Digit Extractor 6_17.xml
+F:\COSC 131\Lab2\Lab2 Digit Extractor 6_17\Lab2 Digit Extractor 6_17\obj\x86\Debug\Lab2 Digit Extractor 6_17.pdb
