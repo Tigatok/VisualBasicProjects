@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AccountInformation">
+</Property><Property Name="Solution File" Value="F:\COSC 131\vb\ch05\TemplateApp\Exercises\AccountInformation\AccountInformation.sln">
+</Property><Property Name="Date" Value="January-16-14">
+</Property><Property Name="Time" Value="22:07 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="AccountInformation.sln" Description="File successfully backed up as F:\COSC 131\vb\ch05\TemplateApp\Exercises\AccountInformation\Backup\AccountInformation.sln">
+</Event><Event ErrorLevel="0" Project="AccountInformation" Source="AccountInformation\AccountInformation.vbproj" Description="Project file successfully backed up as F:\COSC 131\vb\ch05\TemplateApp\Exercises\AccountInformation\Backup\AccountInformation\AccountInformation.vbproj">
+</Event><Event ErrorLevel="0" Project="AccountInformation" Source="AccountInformation\AccountInformation.vbproj.user" Description="Project user file successfully backed up as F:\COSC 131\vb\ch05\TemplateApp\Exercises\AccountInformation\Backup\AccountInformation\AccountInformation.vbproj.user">
+</Event><Event ErrorLevel="0" Project="AccountInformation" Source="AccountInformation\AccountInformation.vb" Description="File successfully backed up as F:\COSC 131\vb\ch05\TemplateApp\Exercises\AccountInformation\Backup\AccountInformation\AccountInformation.vb">
+</Event><Event ErrorLevel="0" Project="AccountInformation" Source="AccountInformation\AccountInformation.Designer.vb" Description="File successfully backed up as F:\COSC 131\vb\ch05\TemplateApp\Exercises\AccountInformation\Backup\AccountInformation\AccountInformation.Designer.vb">
+</Event><Event ErrorLevel="0" Project="AccountInformation" Source="AccountInformation\My Project\AssemblyInfo.vb" Description="File successfully backed up as F:\COSC 131\vb\ch05\TemplateApp\Exercises\AccountInformation\Backup\AccountInformation\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="AccountInformation" Source="AccountInformation\My Project\Application.Designer.vb" Description="File successfully backed up as F:\COSC 131\vb\ch05\TemplateApp\Exercises\AccountInformation\Backup\AccountInformation\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="AccountInformation" Source="AccountInformation\My Project\Resources.Designer.vb" Description="File successfully backed up as F:\COSC 131\vb\ch05\TemplateApp\Exercises\AccountInformation\Backup\AccountInformation\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="AccountInformation" Source="AccountInformation\My Project\Settings.Designer.vb" Description="File successfully backed up as F:\COSC 131\vb\ch05\TemplateApp\Exercises\AccountInformation\Backup\AccountInformation\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="AccountInformation" Source="AccountInformation\My Project\Application.myapp" Description="File successfully backed up as F:\COSC 131\vb\ch05\TemplateApp\Exercises\AccountInformation\Backup\AccountInformation\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="AccountInformation" Source="AccountInformation\My Project\Settings.settings" Description="File successfully backed up as F:\COSC 131\vb\ch05\TemplateApp\Exercises\AccountInformation\Backup\AccountInformation\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="AccountInformation" Source="AccountInformation\AccountInformation.resx" Description="File successfully backed up as F:\COSC 131\vb\ch05\TemplateApp\Exercises\AccountInformation\Backup\AccountInformation\AccountInformation.resx">
+</Event><Event ErrorLevel="0" Project="AccountInformation" Source="AccountInformation\My Project\Resources.resx" Description="File successfully backed up as F:\COSC 131\vb\ch05\TemplateApp\Exercises\AccountInformation\Backup\AccountInformation\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="AccountInformation" Source="AccountInformation\AccountInformation.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AccountInformation" Source="AccountInformation\AccountInformation.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="AccountInformation.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="AccountInformation.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AccountInformation" Source="AccountInformation\AccountInformation.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
